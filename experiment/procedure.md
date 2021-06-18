@@ -17,7 +17,7 @@
   11. On the screen, enter the wavelength range of spectral scan.
       For caffeine: Start: 590 nm End: 290 nm.
       For K 2 Cr 2 O 7 : Start: 700 nm End: 325 nm. In real operation, the wavelength range of incident light for the sample is chosen and the wavelength scan is run via the accompanied computer software. One can run the scan in absorbance (A) or transmittance (%T) mode.
-  12. Click on the green ¡®Start¡¯ button on the measurement set-up screen to run the wavelength scan. Observe the wavelength scan. If the spectrophotometer is a single beam instrument, then first the sample blank or reference is taken in a cuvette and the wavelength scan is run followed by the sample. One has to subtract the reference data from the sample data for respective wavelengths.
+  12. Click on the green 'Start' button on the measurement set-up screen to run the wavelength scan. Observe the wavelength scan. If the spectrophotometer is a single beam instrument, then first the sample blank or reference is taken in a cuvette and the wavelength scan is run followed by the sample. One has to subtract the reference data from the sample data for respective wavelengths.
   13. Click on Close button when spectral scan is complete. In real operation, the scan data are stored in the computer. The instrument stores data and therefore asks for the Sample File name. One enters a file name to save the data.
   14. Repeat the measurement for another sample.
   15. Collect data by clicking on the Data tab.
