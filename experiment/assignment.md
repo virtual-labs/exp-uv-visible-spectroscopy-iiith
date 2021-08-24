@@ -1,4 +1,4 @@
-**Pre-Experiment**
+**Pre-Assignments**
 
 1. If the intensities of the sample and reference beam are both the same, what is the value of absorbance?
 2. What is the % transmission for an absorbance of 1?
@@ -7,7 +7,7 @@
 5. What kinds of electronic transitions are observed in carbonyl compounds?
 6. How are the absorbance and transmittance related at the spectral peak position?
 
-**Post-Experiment**
+**Post-Assignments**
 
 1. What kind of cuvettes (glass or quartz) will you use for a wavelength scan spanning the UV-visible range?
 2. What do you expect if you run the wavelength scan by mistakenly placing the sample in the reference holder and the sample blank or reference in the sample holder?
