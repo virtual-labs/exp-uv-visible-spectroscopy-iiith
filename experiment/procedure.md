@@ -1,8 +1,8 @@
-- To understand the electronic transition and optical absorption, click on the first Simulator.
+1. To understand the electronic transition and optical absorption, click on the first Simulator.
 
-- To see the working of UV-visible spectrophotometer instrument, click on the second Simulator.
+2. To see the working of UV-visible spectrophotometer instrument, click on the second Simulator.
 
-- To know how the measurement of absorbance (or transmittance) a coloured substance in a solution is done by using a spectrophotometer, click on the third Simulator and proceed as follows.
+3 To know how the measurement of absorbance (or transmittance) a coloured substance in a solution is done by using a spectrophotometer, click on the third Simulator and proceed as follows.
 
   1. Familiarize with the spectrophotometer.
   2. Turn on the instrument clicking on the power button and wait for 30 min for initialization of the instrument.
