@@ -1,0 +1,11 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-uv-visible-spectroscopy-iiith/exp-uv-visible-spectroscopy-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-uv-visible-spectroscopy-iiith/exp-uv-visible-spectroscopy-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Validated true
